@@ -27,7 +27,3 @@ share/python-wheels/
 *.egg
 MANIFEST
 venv/
-
-
-## Custom
-data/
